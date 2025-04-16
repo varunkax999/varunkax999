@@ -1,6 +1,6 @@
 # Hello Friends 👋, I'm Varun!
 
-### A little brief: I am not a github user, I mostly develop closed-source projects.
+## *Being real honest, I am not a github user, I mostly develop closed-source projects.
 
 I'm a passionate developer who loves solving problems and creating impactful software. 
 Here's a little about me:
